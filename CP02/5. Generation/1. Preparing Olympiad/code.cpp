@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
+
 using namespace std;
+
+#define ll long long;
+
 int c[16];
+
 int main()
 {
     int n,l,r,x;cin>>n>>l>>r>>x;
